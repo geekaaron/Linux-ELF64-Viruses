@@ -2,7 +2,7 @@
 
 #### Files
 + **tvirus.c** - text padding virus
-+ **dvirus.c** - data padding virus (still have some issue
++ **dvirus.c** - data padding virus (still have some issue)
 + **extractor.c** - Just a little elf tool that extract specified section
 + **hello.s** - Host file for infection that written by at&t assembly
 + **test.s** - Virus file for infection that written by at&t assembly
@@ -29,4 +29,4 @@ And when you execute **hello** and **evil_hello** then you will see:
 ![](./hello.png)
 ![](./evil_hello.png)
 
-**Note!** dvirus still has some issue so emmm...
+**Note!** dvirus still has some issue, so emmm...
