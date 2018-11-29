@@ -26,3 +26,7 @@ $ ./hello
 $ ./evil_hello
 ```
 And when you execute **hello** and **evil_hello** then you will see:
+![](./hello.png)
+![](./evil_hello.png)
+
+**Note!** dvirus still has some issue so emmm...
