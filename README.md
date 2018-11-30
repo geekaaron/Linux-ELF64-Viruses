@@ -12,9 +12,9 @@
 
 #### Step
 ```
-1.	$ make all
-2.	$ ./extractor test .text parasite
-3.	$ ./tvirus hello parasite evil_hello 
+1. $ make all
+2. $ ./extractor test .text parasite
+3. $ ./tvirus hello parasite evil_hello 
 ```
 You can use:
 ```
@@ -26,7 +26,7 @@ $ ./hello
 $ ./evil_hello
 ```
 And when you execute **hello** and **evil_hello** then you will see:
-![](./hello.png)
-![](./evil_hello.png)
+![](./Pictures/hello.png)
+![](./Pictures/evil_hello.png)
 
 **Note!** dvirus still has some issue, so emmm...
